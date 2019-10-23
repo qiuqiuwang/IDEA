@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="23" started-at="2019-10-18T08:14:49Z" finished-at="2019-10-18T08:14:49Z">
+    <groups>
+    </groups>
+    <test name="Selenium" duration-ms="23" started-at="2019-10-18T08:14:49Z" finished-at="2019-10-18T08:14:49Z">
+      <class name="study_day1.TestNGDemo1">
+        <test-method status="PASS" signature="beforeCase()[pri:0, instance:study_day1.TestNGDemo1@1e643faf]" name="beforeCase" is-config="true" duration-ms="6" started-at="2019-10-18T16:14:49Z" finished-at="2019-10-18T16:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeCase -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:study_day1.TestNGDemo1@1e643faf]" name="testCase1" duration-ms="1" started-at="2019-10-18T16:14:49Z" finished-at="2019-10-18T16:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:study_day1.TestNGDemo1@1e643faf]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-10-18T16:14:49Z" finished-at="2019-10-18T16:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:study_day1.TestNGDemo1@1e643faf]" name="AfterMethod" is-config="true" duration-ms="1" started-at="2019-10-18T16:14:49Z" finished-at="2019-10-18T16:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:study_day1.TestNGDemo1@1e643faf]" name="testCase2" duration-ms="0" started-at="2019-10-18T16:14:49Z" finished-at="2019-10-18T16:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:study_day1.TestNGDemo1@1e643faf]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-10-18T16:14:49Z" finished-at="2019-10-18T16:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:study_day1.TestNGDemo1@1e643faf]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2019-10-18T16:14:49Z" finished-at="2019-10-18T16:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="afterTestCase()[pri:0, instance:study_day1.TestNGDemo1@1e643faf]" name="afterTestCase" is-config="true" duration-ms="0" started-at="2019-10-18T16:14:49Z" finished-at="2019-10-18T16:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+      </class> <!-- study_day1.TestNGDemo1 -->
+    </test> <!-- Selenium -->
+  </suite> <!-- Default Suite -->
+</testng-results>
