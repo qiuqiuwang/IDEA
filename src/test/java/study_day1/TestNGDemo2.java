@@ -8,7 +8,7 @@ public class TestNGDemo2 {
     @Test
     public void AssertEqualtest(){   //校验字段相等
         String a = "asjdsdj";
-        String b = "asjdsdj";
+        String b = "asjdsd";
         System.out.println("登录");
         Assert.assertEquals(a,b,"校验登录成功");
         System.out.println("操作打开页面删除");

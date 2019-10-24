@@ -3,7 +3,7 @@
 <suite name="Default Suite">
   <test name="Selenium">
     <classes>
-      <class name="study_day1.TestNGDemo1">
+      <class name="study_day1.TestNGDemo2">
         <methods>
 <!--          <include name="login176"/>-->
         </methods>

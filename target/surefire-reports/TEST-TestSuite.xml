@@ -35,30 +35,31 @@
     <property name="=E:" value="E:\instal_program\Tomcat\apache-tomcat-9.0.27-windows-x64\apache-tomcat-9.0.27\bin"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="LOCALAPPDATA" value="C:\Users\qiuqiu.wang\AppData\Local"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/jenkins/job/WebDriverDemo3/2/display/redirect?page=changes"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/jenkins/job/WebDriverDemo3/3/display/redirect?page=changes"/>
     <property name="user.timezone" value="Asia/Shanghai"/>
     <property name="user.script" value=""/>
     <property name="path.separator" value=";"/>
     <property name="NUMBER_OF_PROCESSORS" value="4"/>
-    <property name="BUILD_TAG" value="jenkins-WebDriverDemo3-2"/>
+    <property name="BUILD_TAG" value="jenkins-WebDriverDemo3-3"/>
     <property name="file.encoding" value="GBK"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main E:\instal_program\Maven\apache-maven-3.6.2-bin\apache-maven-3.6.2 E:\instal_program\Tomcat\apache-tomcat-9.0.27-windows-x64\apache-tomcat-9.0.27\webapps\jenkins\WEB-INF\lib\remoting-3.33.jar C:\Users\qiuqiu.wang\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\qiuqiu.wang\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 51620"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main E:\instal_program\Maven\apache-maven-3.6.2-bin\apache-maven-3.6.2 E:\instal_program\Tomcat\apache-tomcat-9.0.27-windows-x64\apache-tomcat-9.0.27\webapps\jenkins\WEB-INF\lib\remoting-3.33.jar C:\Users\qiuqiu.wang\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\qiuqiu.wang\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 60190"/>
     <property name="HUDSON_URL" value="http://localhost:8080/jenkins/"/>
     <property name="JENKINS_SERVER_COOKIE" value="8ea0410c9b237e0c"/>
     <property name="EXECUTOR_NUMBER" value="0"/>
     <property name="Path" value="C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\IDM Computer Solutions\UltraEdit;E:\instal_program\Python3\Scripts\;E:\instal_program\Python3\;E:\instal_program\git\Git\cmd;E:\instal_program\Python3\Scripts\;E:\instal_program\Python3\;C:\Users\qiuqiu.wang\AppData\Local\Microsoft\WindowsApps;E:\instal_program\PyCharm 2018.3.3\bin;E:\instal_program\fiddler抓包软件\Fiddler;E:\instal_program\git\Git\cmd;"/>
+    <property name="GIT_COMMIT" value="a258e08b987cd2d23ccdaa2e924902f3997f64c4"/>
     <property name="java.io.tmpdir" value="C:\Users\QIUQIU~1.WAN\AppData\Local\Temp\"/>
     <property name="APPDATA" value="C:\Users\qiuqiu.wang\AppData\Roaming"/>
     <property name="user.language" value="zh"/>
     <property name="CATALINA_TMPDIR" value="E:\instal_program\Tomcat\apache-tomcat-9.0.27-windows-x64\apache-tomcat-9.0.27\temp"/>
     <property name="line.separator" value="&#10;"/>
-    <property name="BUILD_URL" value="http://localhost:8080/jenkins/job/WebDriverDemo3/2/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/jenkins/job/WebDriverDemo3/3/"/>
     <property name="ACTION" value="start"/>
     <property name="M2_HOME" value="E:\instal_program\Maven\apache-maven-3.6.2-bin\apache-maven-3.6.2"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="sun.desktop" value="windows"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="BUILD_DISPLAY_NAME" value="#2"/>
+    <property name="BUILD_DISPLAY_NAME" value="#3"/>
     <property name="OS" value="Windows_NT"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="CATALINA_BASE" value="E:\instal_program\Tomcat\apache-tomcat-9.0.27-windows-x64\apache-tomcat-9.0.27"/>
@@ -77,7 +78,7 @@
     <property name="os.name" value="Windows 10"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="2"/>
+    <property name="BUILD_NUMBER" value="3"/>
     <property name="maven3.interceptor" value="C:\Users\qiuqiu.wang\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_191\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;E:\instal_program\Maven\apache-maven-3.6.2-bin\apache-maven-3.6.2/bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\IDM Computer Solutions\UltraEdit;E:\instal_program\Python3\Scripts\;E:\instal_program\Python3\;E:\instal_program\git\Git\cmd;E:\instal_program\Python3\Scripts\;E:\instal_program\Python3\;C:\Users\qiuqiu.wang\AppData\Local\Microsoft\WindowsApps;E:\instal_program\PyCharm 2018.3.3\bin;E:\instal_program\fiddler抓包软件\Fiddler;E:\instal_program\git\Git\cmd;;."/>
     <property name="HOMEDRIVE" value="C:"/>
@@ -89,10 +90,11 @@
     <property name="_RUNJDB" value="&quot;C:\Program Files\Java\jdk1.8.0_191\bin\jdb.exe&quot;"/>
     <property name="JOB_URL" value="http://localhost:8080/jenkins/job/WebDriverDemo3/"/>
     <property name="OneDrive" value="C:\Users\qiuqiu.wang\OneDrive"/>
-    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/jenkins/job/WebDriverDemo3/2/display/redirect"/>
+    <property name="GIT_BRANCH" value="origin/master"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/jenkins/job/WebDriverDemo3/3/display/redirect"/>
     <property name="MAINCLASS" value="org.apache.catalina.startup.Bootstrap"/>
     <property name="JENKINS_HOME" value="C:\Users\qiuqiu.wang\.jenkins"/>
-    <property name="BUILD_ID" value="2"/>
+    <property name="BUILD_ID" value="3"/>
     <property name="TEMP" value="C:\Users\QIUQIU~1.WAN\AppData\Local\Temp"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_191\jre\bin"/>
     <property name="JDK_JAVA_OPTIONS" value=" --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED"/>
@@ -135,13 +137,15 @@
     <property name="WORKSPACE" value="C:\Users\qiuqiu.wang\.jenkins\workspace\WebDriverDemo3"/>
     <property name="ComSpec" value="C:\windows\system32\cmd.exe"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
     <property name="SystemRoot" value="C:\windows"/>
     <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
     <property name="file.separator" value="\"/>
     <property name="java.runtime.version" value="1.8.0_191-b12"/>
-    <property name="ProgramFiles" value="C:\Program Files"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_191\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_191\jre\classes"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
     <property name="user.country" value="CN"/>
     <property name="POM_PACKAGING" value="jar"/>
     <property name="maven.home" value="E:\instal_program\Maven\apache-maven-3.6.2-bin\apache-maven-3.6.2"/>
@@ -151,7 +155,8 @@
     <property name="POM_DISPLAYNAME" value="Selenium"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
+    <property name="GIT_URL" value="https://github.com/qiuqiuwang/IDEA.git"/>
   </properties>
-  <testcase name="testCase1" classname="study_day1.TestNGDemo1" time="0.002"/>
-  <testcase name="testCase2" classname="study_day1.TestNGDemo1" time="0"/>
+  <testcase name="testCase1" classname="study_day1.TestNGDemo1" time="0.001"/>
+  <testcase name="testCase2" classname="study_day1.TestNGDemo1" time="0.001"/>
 </testsuite>
